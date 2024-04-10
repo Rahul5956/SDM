@@ -6,7 +6,7 @@ int main()
     int n,j;
 
     n=60;
-
+// find factors
     for (int i = 1; i <=n; i++)
     {
         if(n%i==0)
